@@ -3,30 +3,30 @@ Working through the rustlings problems
 
 ## Progress
 
-| Exercies                 | Progress  |
-| :----------------------: | :-------: |
-| `variables`              | 6/6       |
-| `functions`              | 5/5       |
-| `if`                     | 2/2       |
-| `quiz1`                  | 1/1       |
-| `move_semantics`         | 5/5       |
-| `primitive_types`        | 6/6       |
-| `structs`                | 3/3       |
-| `enums`                  | 3/3       |
-| `modules`                | 0/3       |
-| `collections`            | 0/4       |
-| `strings`                | 0/2       |
-| `quiz2`                  | 0/1       |
-| `error_handlings`        | 0/6       |
-| `generics`               | 0/3       |
-| `option`                 | 0/3       |
-| `traits`                 | 0/2       |
-| `tests`                  | 0/3       |
-| `quiz3`                  | 0/1       |
-| `standard_library_types` | 0/7       |
-| `threads`                | 0/1       |
-| `macros`                 | 0/4       |
-| `quiz4`                  | 0/1       |
-| `clippy`                 | 0/2       |
-| `conversions`            | 0/5       |
-| `advanced_errors`        | 0/2       | 
+| Exercises                 | Progress  | Links        																					   |
+| :----------------------:  | :-------: | :----------------------------------------------------------------------------------------------: |
+| `variables`               | 6/6       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/variables)                  |
+| `functions`               | 5/5       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/functions)                  |
+| `if`                      | 2/2       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/if)                         |
+| `quiz1`                   | 1/1       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/quiz1.rs)                   |
+| `move_semantics`          | 5/5       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/move_semantics)             |
+| `primitive_types`         | 6/6       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/primitive_types)            |
+| `structs`                 | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/structs)                    |
+| `enums`                   | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/enums)                      |
+| `modules`                 | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/modules)                    |
+| `collections`             | 0/4       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/collections)                |
+| `strings`                 | 0/2       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/strings)                    |
+| `quiz2`                   | 0/1       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/quiz2.rs)                   |
+| `error_handlings`         | 0/6       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/error_handling)             |
+| `generics`                | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/generics)                   |
+| `option`                  | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/option)                     |
+| `traits`                  | 0/2       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/traits)                     |
+| `tests`                   | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/tests)                      |
+| `quiz3`                   | 0/1       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/quiz3.rs)                   |
+| `standard_library_types`  | 0/7       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/standard_library_types)     |
+| `threads`                 | 0/1       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/threads)                    |
+| `macros`                  | 0/4       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/macros)                     |
+| `quiz4`                   | 0/1       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/quiz4.rs)                   |
+| `clippy`                  | 0/2       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/clippy)                     |
+| `conversions`             | 0/5       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/conversions)                |
+| `advanced_errors`         | 0/2       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/advanced_errors)            |   
