@@ -27,6 +27,6 @@ Working through the rustlings problems
 | `macros`                  | 0/4       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/macros)                     |
 | `clippy`                  | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/clippy)                     |
 | `conversions`             | 0/5       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/conversions)                |
-| `hashmaps`                | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/hashmaps)                   |
+| `hashmaps`                | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/hashmaps)                   |
 | `lifetimes`               | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/lifetimes)                  |
 | `options`                 | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/options)                    |
