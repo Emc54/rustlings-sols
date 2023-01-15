@@ -15,7 +15,7 @@ Working through the rustlings problems
 | `structs`                 | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/structs)                    |
 | `enums`                   | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/enums)                      |
 | `strings`                 | 4/4       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/strings)                    |
-| `modules`                 | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/modules)                    |
+| `modules`                 | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/modules)                    |
 | `quiz2`                   | 0/1       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/quiz2.rs)                   |
 | `error_handlings`         | 0/6       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/error_handling)             |
 | `generics`                | 0/2       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/generics)                   |
