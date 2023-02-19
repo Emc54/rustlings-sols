@@ -20,7 +20,7 @@ Working through the rustlings problems
 | `hashmaps`                | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/hashmaps)                   |
 | `quiz2`                   | 1/1       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/quiz2.rs)                   |
 | `options`                 | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/options)                    |
-| `error_handlings`         | 0/6       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/error_handling)             |
+| `error_handlings`         | 6/6       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/error_handling)             |
 | `generics`                | 0/2       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/generics)                   |
 | `traits`                  | 0/5       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/traits)                     |
 | `tests`                   | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/tests)                      |
