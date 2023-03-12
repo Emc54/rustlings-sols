@@ -27,7 +27,7 @@ Working through the rustlings problems
 | `tests`                   | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/tests)                      |
 | `lifetimes`               | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/lifetimes)                  |
 | `standard_library_types`  | 9/9       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/standard_library_types)     |
-| `threads`                 | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/threads)                    |
+| `threads`                 | 3/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/threads)                    |
 | `macros`                  | 0/4       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/macros)                     |
 | `clippy`                  | 0/3       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/clippy)                     |
 | `conversions`             | 0/5       | [:link:](https://github.com/Emc54/rustlings-sols/tree/main/exercises/conversions)                |
